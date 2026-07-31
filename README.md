@@ -11,8 +11,8 @@
 
 ## Nombre y legajo
 
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: 233.215-2
+- Nombre: Francisco Baquero
 
 ## El enunciado
 
